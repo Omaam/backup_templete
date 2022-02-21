@@ -1,2 +1,2 @@
-# backup_templete
+# template_backup
 Template of backup.
