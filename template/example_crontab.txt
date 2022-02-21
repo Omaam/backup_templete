@@ -1,0 +1,7 @@
+# Setting memo
+# min hour day month week
+
+# Full backup
+15  4   *   *   0   nice /home/omama/Data_backup/backup_full.sh
+# Incremental backup
+15  4   *   *   1-5 nice /home/omama/Data_backup/backup_incremental.sh
