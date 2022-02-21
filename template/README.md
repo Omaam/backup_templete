@@ -1,7 +1,6 @@
-This is a backup directory for backup_dir.
+# Backup for XXXX
 
-
-# Structure
+## Structure
 ```
 .
 ├── backup_full.sh         : Script for full-backup.
@@ -14,6 +13,6 @@ This is a backup directory for backup_dir.
     └── log                : Log file for incremental-bakcup.
 ```
 
-# Frequency
+## Frequency
 * Full backu        : once a week. XX:XX in Sundays
 * Incremental backup: once a day.  XX:XX everyday
